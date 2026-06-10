@@ -1,0 +1,41 @@
+order_id,rep_name,country,order_date,close_date,product,quantity,unit_price,status,revenue,month,quarter,notes,,,order_id,rep_name,country,order_date,close_date,product,quantity,unit_price,status,revenue,month,quarter,notes
+1001,Alice Johnson,US,1/5/2024,BAD DATE,Widget Pro,10,250,Won,2500,2024-05,Q2 2024,Q1 push,,,1001,Alice Johnson,US,1/5/2024,BAD DATE,Widget Pro,10,250,Won,2500,2024-05,Q2 2024,Q1 push
+1002,Bob Smith,US,1/7/2024,BAD DATE,Widget Lite,5,120,Won,600,2024-07,Q3 2024,—,,,1002,Bob Smith,US,1/7/2024,BAD DATE,Widget Lite,5,120,Won,600,2024-07,Q3 2024,—
+1003,Alice Johnson,US,BAD DATE,2/1/2024,Gadget Max,3,890,Won,2670,BAD DATE,,Upsell,,,1003,Alice Johnson,US,BAD DATE,2/1/2024,Gadget Max,3,890,Won,2670,BAD DATE,,Upsell
+1004,Carlos Mendes,BR,BAD DATE,2/5/2024,Widget Pro,8,250,Lost,2000,BAD DATE,,Price sensitive,,,1005,Diana Lee,SG,BAD DATE,BAD DATE,Widget Lite,12,120,Won,1440,BAD DATE,,—
+1005,Diana Lee,SG,BAD DATE,BAD DATE,Widget Lite,12,120,Won,1440,BAD DATE,,—,,,1006,Bob Smith,US,BAD DATE,BAD DATE,Gadget Max,2,890,Won,1780,BAD DATE,,Repeat customer
+1006,Bob Smith,US,BAD DATE,BAD DATE,Gadget Max,2,890,Won,1780,BAD DATE,,Repeat customer,,,1008,Diana Lee,SG,2/5/2024,BAD DATE,Gadget Plus,4,450,Won,1800,2024-05,Q2 2024,—
+1007,Carlos Mendes,BR,2/3/2024,BAD DATE,Widget Pro,6,250,Lost,1500,2024-03,Q1 2024,—,,,1009,Alice Johnson,US,BAD DATE,BAD DATE,Widget Lite,15,120,Won,1800,BAD DATE,,—
+1008,Diana Lee,SG,2/5/2024,BAD DATE,Gadget Plus,4,450,Won,1800,2024-05,Q2 2024,—,,,1010,Ethan Cruz,MX,BAD DATE,BAD DATE,Widget Pro,7,250,Won,1750,BAD DATE,,New logo
+1009,Alice Johnson,US,BAD DATE,BAD DATE,Widget Lite,15,120,Won,1800,BAD DATE,,—,,,1012,Ethan Cruz,MX,BAD DATE,3/8/2024,Widget Lite,9,120,Won,1080,BAD DATE,,—
+1010,Ethan Cruz,MX,BAD DATE,BAD DATE,Widget Pro,7,250,Won,1750,BAD DATE,,New logo,,,1013,Diana Lee,SG,BAD DATE,BAD DATE,Widget Pro,5,250,Won,1250,BAD DATE,,—
+1011,Bob Smith,US,BAD DATE,3/5/2024,Gadget Plus,3,450,Lost,1350,BAD DATE,,—,,,1014,Carlos Mendes,BR,3/1/2024,BAD DATE,Gadget Max,2,890,Won,1780,2024-01,Q1 2024,Q1 close
+1012,Ethan Cruz,MX,BAD DATE,3/8/2024,Widget Lite,9,120,Won,1080,BAD DATE,,—,,,1015,Alice Johnson,US,3/5/2024,BAD DATE,Gadget Plus,6,450,Won,2700,2024-05,Q2 2024,—
+1013,Diana Lee,SG,BAD DATE,BAD DATE,Widget Pro,5,250,Won,1250,BAD DATE,,—,,,1017,Bob Smith,US,BAD DATE,BAD DATE,Widget Lite,11,120,Won,1320,BAD DATE,,—
+1014,Carlos Mendes,BR,3/1/2024,BAD DATE,Gadget Max,2,890,Won,1780,2024-01,Q1 2024,Q1 close,,,1018,Diana Lee,SG,BAD DATE,BAD DATE,Gadget Max,1,890,Won,890,BAD DATE,,—
+1015,Alice Johnson,US,3/5/2024,BAD DATE,Gadget Plus,6,450,Won,2700,2024-05,Q2 2024,—,,,1019,Carlos Mendes,BR,BAD DATE,BAD DATE,Widget Pro,3,250,Won,750,BAD DATE,,Bad date test
+1016,Ethan Cruz,MX,3/8/2024,BAD DATE,Widget Pro,4,250,Lost,1000,2024-08,Q3 2024,—,,,1020,Alice Johnson,US,BAD DATE,4/5/2024,Widget Lite,8,120,Won,960,BAD DATE,,—
+1017,Bob Smith,US,BAD DATE,BAD DATE,Widget Lite,11,120,Won,1320,BAD DATE,,—,,,1021,Ethan Cruz,MX,4/1/2024,BAD DATE,Gadget Plus,5,450,Won,2250,2024-01,Q1 2024,Q2 start
+1018,Diana Lee,SG,BAD DATE,BAD DATE,Gadget Max,1,890,Won,890,BAD DATE,,—,,,1022,Bob Smith,US,4/3/2024,BAD DATE,Widget Pro,10,250,Won,2500,2024-03,Q1 2024,—
+1019,Carlos Mendes,BR,BAD DATE,BAD DATE,Widget Pro,3,250,Won,750,BAD DATE,,Bad date test,,,1023,Diana Lee,SG,4/7/2024,BAD DATE,Widget Lite,6,120,Won,720,2024-07,Q3 2024,—
+1020,Alice Johnson,US,BAD DATE,4/5/2024,Widget Lite,8,120,Won,960,BAD DATE,,—,,,1025,Alice Johnson,US,BAD DATE,BAD DATE,Widget Pro,9,250,Won,2250,BAD DATE,,—
+1021,Ethan Cruz,MX,4/1/2024,BAD DATE,Gadget Plus,5,450,Won,2250,2024-01,Q1 2024,Q2 start,,,1026,Ethan Cruz,MX,BAD DATE,5/2/2024,Gadget Plus,3,450,Won,1350,BAD DATE,,—
+1022,Bob Smith,US,4/3/2024,BAD DATE,Widget Pro,10,250,Won,2500,2024-03,Q1 2024,—,,,1027,Bob Smith,US,BAD DATE,5/6/2024,Widget Lite,14,120,Won,1680,BAD DATE,,—
+1023,Diana Lee,SG,4/7/2024,BAD DATE,Widget Lite,6,120,Won,720,2024-07,Q3 2024,—,,,1029,Carlos Mendes,BR,BAD DATE,BAD DATE,Gadget Plus,5,450,Won,2250,BAD DATE,,—
+1024,Carlos Mendes,BR,BAD DATE,BAD DATE,Gadget Max,4,890,Lost,3560,BAD DATE,,Budget cut,,,1030,Alice Johnson,US,5/2/2024,BAD DATE,Gadget Max,2,890,Won,1780,2024-02,Q1 2024,—
+1025,Alice Johnson,US,BAD DATE,BAD DATE,Widget Pro,9,250,Won,2250,BAD DATE,,—,,,1031,Ethan Cruz,MX,5/6/2024,BAD DATE,Widget Lite,10,120,Won,1200,2024-06,Q2 2024,—
+1026,Ethan Cruz,MX,BAD DATE,5/2/2024,Gadget Plus,3,450,Won,1350,BAD DATE,,—,,,1032,Bob Smith,US,5/9/2024,BAD DATE,Widget Pro,6,250,Won,1500,2024-09,Q3 2024,—
+1027,Bob Smith,US,BAD DATE,5/6/2024,Widget Lite,14,120,Won,1680,BAD DATE,,—,,,1033,Diana Lee,SG,BAD DATE,BAD DATE,Gadget Plus,4,450,Won,1800,BAD DATE,,—
+1028,Diana Lee,SG,BAD DATE,5/9/2024,Widget Pro,7,250,Lost,1750,BAD DATE,,—,,,1035,Alice Johnson,US,BAD DATE,6/4/2024,Widget Lite,12,120,Won,1440,BAD DATE,,—
+1029,Carlos Mendes,BR,BAD DATE,BAD DATE,Gadget Plus,5,450,Won,2250,BAD DATE,,—,,,1036,Ethan Cruz,MX,BAD DATE,6/8/2024,Widget Pro,8,250,Won,2000,BAD DATE,,—
+1030,Alice Johnson,US,5/2/2024,BAD DATE,Gadget Max,2,890,Won,1780,2024-02,Q1 2024,—,,,1037,Bob Smith,US,BAD DATE,BAD DATE,Gadget Plus,5,450,Won,2250,BAD DATE,,—
+1031,Ethan Cruz,MX,5/6/2024,BAD DATE,Widget Lite,10,120,Won,1200,2024-06,Q2 2024,—,,,1039,Carlos Mendes,BR,6/3/2024,BAD DATE,Widget Pro,4,250,Won,1000,2024-03,Q1 2024,—
+1032,Bob Smith,US,5/9/2024,BAD DATE,Widget Pro,6,250,Won,1500,2024-09,Q3 2024,—,,,1040,Alice Johnson,US,6/6/2024,BAD DATE,Gadget Max,1,890,Won,890,2024-06,Q2 2024,Half-year close
+1033,Diana Lee,SG,BAD DATE,BAD DATE,Gadget Plus,4,450,Won,1800,BAD DATE,,—,,,,,,,,,,,,,,,
+1034,Carlos Mendes,BR,BAD DATE,BAD DATE,Gadget Max,3,890,Lost,2670,BAD DATE,,Date missing,,,,,,,,,,,,,,,
+1035,Alice Johnson,US,BAD DATE,6/4/2024,Widget Lite,12,120,Won,1440,BAD DATE,,—,,,,,,,,,,,,,,,
+1036,Ethan Cruz,MX,BAD DATE,6/8/2024,Widget Pro,8,250,Won,2000,BAD DATE,,—,,,,,,,,,,,,,,,
+1037,Bob Smith,US,BAD DATE,BAD DATE,Gadget Plus,5,450,Won,2250,BAD DATE,,—,,,,,,,,,,,,,,,
+1038,Diana Lee,SG,BAD DATE,BAD DATE,Widget Lite,9,120,Lost,1080,BAD DATE,,—,,,,,,,,,,,,,,,
+1039,Carlos Mendes,BR,6/3/2024,BAD DATE,Widget Pro,4,250,Won,1000,2024-03,Q1 2024,—,,,,,,,,,,,,,,,
+1040,Alice Johnson,US,6/6/2024,BAD DATE,Gadget Max,1,890,Won,890,2024-06,Q2 2024,Half-year close,,,,,,,,,,,,,,,
